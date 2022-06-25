@@ -1,2 +1,2 @@
 First line
-https://alexceptionable.github.io/my-rsschool-cv/cv
+https://alexceptionable.github.io/my-rsschool-cv/
