@@ -99,3 +99,7 @@ button {
     justify-content: left;
     column-gap: 20px;
 }
+
+.line {
+    border: 0.5px solid black;
+}
